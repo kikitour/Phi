@@ -1,4 +1,4 @@
-# Phi# 🌐 [Project Name]
+# Phi# 🌐]
 
 An educational website project built for learning purposes. Not intended for real-world use.
 
